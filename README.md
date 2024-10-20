@@ -5,17 +5,10 @@
 
 
 # Hi, I'm Tejas Pisal! 👋
-![Coding GIF](https://media.giphy.com/media/rJH66JzvgZy4PFN117/giphy.gif) 
-
-
-
-
-
-
 
 ## 🚀 About Me
 I'm a Software Test Engineer...
-
+![Coding GIF](https://media.giphy.com/media/rJH66JzvgZy4PFN117/giphy.gif) 
 
 
 👩‍💻 I'm currently working on Testing-related projects that keep software running smoother than a well-oiled machine—because who wants bugs crashing the party?
