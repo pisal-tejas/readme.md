@@ -1,5 +1,5 @@
 
-# Hi, I'm Tejas Pisal! 👋
+# Hi,👋 I'm Tejas Pisal aka Téjà vu
 ![Smolverse GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif) 
 
 ## 🚀 About Me
