@@ -5,7 +5,7 @@
 
 
 # Hi, I'm Tejas Pisal! 👋
-![Coding GIF](https://media.giphy.com/media/rJH66JzvgZy4PFN117/giphy.gif) [via GIPHY](https://giphy.com/gifs/Atlassian-rJH66JzvgZy4PFN117)
+![Coding GIF](https://media.giphy.com/media/rJH66JzvgZy4PFN117/giphy.gif) 
 
 
 
