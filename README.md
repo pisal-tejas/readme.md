@@ -28,9 +28,17 @@ I'm a Software Test Engineer...
 ⚡️ Fun Fact: Get to know me, and you’ll find I’m like a software update — hard to ignore, a little unpredictable, and guaranteed to make your day brighter! 😄
 
 
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-pisal/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/tejasjpisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/tejasjpisal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-pisal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-pisal/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/tejaspisal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tejaspisal/" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pisal-tejas&show_icons=true&locale=en" alt="pisal-tejas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pisal-tejas&" alt="pisal-tejas" /></p>
 
 
 
