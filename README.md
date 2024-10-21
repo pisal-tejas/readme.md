@@ -62,6 +62,8 @@ I'm a Software Test Engineer...
 
 
 
-!
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pisal-tejas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pisal-tejas/github-readme-stats#gh-dark-mode-only)
 
+[![Tejas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pisal-tejas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pisal-tejas/github-readme-stats#gh-dark-mode-only)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisal-tejas&hide_progress=true)
