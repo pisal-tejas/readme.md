@@ -59,4 +59,8 @@ I'm a Software Test Engineer...
 - Performance Testing
 - Python
 
+1
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?pisal-tejas=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?pisal-tejas=jasongaylord&langs_count=5&theme=tokyonight)]()
 
