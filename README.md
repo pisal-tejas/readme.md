@@ -67,3 +67,4 @@ I'm a Software Test Engineer...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisal-tejas&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
