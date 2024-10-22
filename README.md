@@ -3,12 +3,10 @@
 # Hi,👋 I'm Tejas Pisal aka **téjà vu**
 
 <p align="center">
-<img src="https://www.kindpng.com/picc/m/433-4330140_programmer-computer-programmer-cartoon-hd-png-download.png" width="300" height="300"/>
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" height="300"/>
 </p>
 
 </div>
-
-
 ---
 
 ## 🚀 About Me
