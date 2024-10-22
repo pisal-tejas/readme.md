@@ -22,8 +22,6 @@ I'm a **Software Test Engineer**...
 
 💬 **Ask me about:**
 - The world of software testing
-- Mobile photography tips that’ll make your friends jealous 📸
-- Indie music recommendations that will elevate your playlist 🎶
 - Life's little joys, positive vibes, spirituality, and quotes ✨
 
 📫 **Reach me at**: tejaspisal4@gmail.com
