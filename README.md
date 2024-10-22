@@ -87,7 +87,8 @@ I'm a **Software Test Engineer**...
 
 [![Tejas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pisal-tejas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pisal-tejas/github-readme-stats#gh-dark-mode-only)
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats-orpin-one-79.vercel.app/?user=pisal-tejas" alt="pisal-tejas GitHub Streak" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisal-tejas&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pisal-tejas&" alt="pisal-tejas GitHub Streak" /></p>
-
+</div>
