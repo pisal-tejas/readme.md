@@ -26,11 +26,14 @@ I'm a **Software Test Engineer**...
 - Indie music recommendations that will elevate your playlist 🎶
 - Life's little joys, positive vibes, spirituality, and quotes ✨
 
+
 📫 **Reach me at**: tejaspisal4@gmail.com
 
-⚡️ **Fun Fact**: Get to know me, and you’ll find I’m like a software update — hard to ignore, a little unpredictable, and guaranteed to make your day brighter! 😄
----
+😄 **Pronouns**: she/her
 
+⚡️ **Fun Fact**: Get to know me, and you’ll find I’m like a software update — hard to ignore, a little unpredictable, and guaranteed to make your day brighter! 😄
+
+---
 ## 🛠 Skills
 
 <div align="center">
