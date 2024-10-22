@@ -24,13 +24,9 @@ I'm a **Software Test Engineer**...
 - The world of software testing
 - Mobile photography tips that’ll make your friends jealous 📸
 - Indie music recommendations that will elevate your playlist 🎶
-- Mythological stories and historical epics 📜
 - Life's little joys, positive vibes, spirituality, and quotes ✨
-- Good books that will transport you to new worlds 📚
 
 📫 **Reach me at**: tejaspisal4@gmail.com
-
-😄 **Pronouns**: she/her
 
 ⚡️ **Fun Fact**: Get to know me, and you’ll find I’m like a software update — hard to ignore, a little unpredictable, and guaranteed to make your day brighter! 😄
 
@@ -40,47 +36,44 @@ I'm a **Software Test Engineer**...
 
 <div align="center">
 
-### Core Skills:
+### 🧰 Core Skills
 <table>
 <tr>
-<td>
-
-- Requirement Analysis  
-- Test Case Writing  
-- Test Planning  
-- Test Design  
-- Executing  
-- Reporting  
-- UAT (User Acceptance Testing)  
-- Regression Testing  
-
-</td>
-<td>
-
-- Unit Testing  
-- System Testing  
-- Integration Testing  
-- Bug Tracking  
-- Test Strategy  
-- Quality Assurance  
-- Risk Assessment  
-- Documentation  
-
-</td>
+  <td align="center"><b>Requirement Analysis</b></td>
+  <td align="center"><b>Test Case Writing</b></td>
+  <td align="center"><b>Test Planning</b></td>
+</tr>
+<tr>
+  <td align="center"><b>Test Design</b></td>
+  <td align="center"><b>Test Execution</b></td>
+  <td align="center"><b>Reporting</b></td>
+</tr>
+<tr>
+  <td align="center"><b>User Acceptance Testing (UAT)</b></td>
+  <td align="center"><b>Regression Testing</b></td>
+  <td align="center"><b>System Testing</b></td>
+</tr>
+<tr>
+  <td align="center"><b>Integration Testing</b></td>
+  <td align="center"><b>Bug Tracking</b></td>
+  <td align="center"><b>Risk Assessment</b></td>
 </tr>
 </table>
 
-### Tools & Technologies:
-- **JIRA** for task management  
-- **TestLink** for test case management  
-- **Mantis** for issue tracking  
-- **Agile methodology, Scrum**  
-- **Python**  
-- Performance Testing tools
+---
+
+### 🛠 Tools & Technologies
+<p align="center">
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" /> 
+<img src="https://img.shields.io/badge/TestLink-orange?style=for-the-badge&logo=testlink&logoColor=white" alt="TestLink" />
+<img src="https://img.shields.io/badge/Mantis-FF6C37?style=for-the-badge&logo=mantis&logoColor=white" alt="Mantis" />
+<img src="https://img.shields.io/badge/Agile-29B6F6?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
 </div>
 
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
