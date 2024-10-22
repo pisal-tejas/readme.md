@@ -91,4 +91,3 @@ I'm a **Software Test Engineer**...
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pisal-tejas&" alt="pisal-tejas GitHub Streak" /></p>
 
-</div>
