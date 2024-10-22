@@ -29,8 +29,7 @@ I'm a **Software Test Engineer**...
 📫 **Reach me at**: tejaspisal4@gmail.com
 
 ⚡️ **Fun Fact**: Get to know me, and you’ll find I’m like a software update — hard to ignore, a little unpredictable, and guaranteed to make your day brighter! 😄
-
-
+---
 
 ## 🛠 Skills
 
