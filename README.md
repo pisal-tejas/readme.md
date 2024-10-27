@@ -9,7 +9,7 @@
 </div>
 <p></p>
 
-![Snake animation](https://github.com/pisal-tejas/pisal-tejas/blob/output/github-contribution-grid-snake.svg)
+
 
 <p></p>
 
@@ -107,3 +107,6 @@ I'm a **Software Test Engineer**...
 
 
 </div>
+
+
+![snake gif](https://github.com/pisal-tejas/pisal-tejas/blob/output/github-contribution-grid-snake.gif)
