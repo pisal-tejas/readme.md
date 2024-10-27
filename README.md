@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi,👋 I'm Tejas Pisal aka **téjà vu**
-![snake gif](https://github.com/pisal-tejas/pisal-tejas/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center">
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" height="300"/>
 </p>
