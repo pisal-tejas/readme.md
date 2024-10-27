@@ -9,11 +9,14 @@
 </div>
 <p></p>
 
-![snake gif](https://github.com/pisal-tejas/pisal-tejas/blob/output/github-contribution-grid-snake.gif)
+
 
 <p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> 
+</p>
+![snake gif](https://github.com/pisal-tejas/pisal-tejas/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 ## 🚀 About Me
