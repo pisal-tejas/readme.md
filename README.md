@@ -7,7 +7,15 @@
 </p>
 
 </div>
+<p></p>
 
+<!-- ![school-of-athens](https://user-images.githubusercontent.com/69278312/210283692-ee10d5d7-34b4-4fef-9017-6d2ffa4503df.jpg) -->
+![contributions](https://user-images.githubusercontent.com/69278312/213488373-97e791d5-6faf-401f-b568-bb7cef990226.svg)
+<!-- ![yousrachakib's 42 stats](https://badge.mediaplus.ma/levi/yousrachakib) -->
+
+<p></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> </p>
 ---
 
 ## 🚀 About Me
