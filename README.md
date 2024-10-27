@@ -9,9 +9,7 @@
 </div>
 <p></p>
 
-<!-- ![school-of-athens](https://user-images.githubusercontent.com/69278312/210283692-ee10d5d7-34b4-4fef-9017-6d2ffa4503df.jpg) -->
-![contributions](https://user-images.githubusercontent.com/69278312/213488373-97e791d5-6faf-401f-b568-bb7cef990226.svg)
-<!-- ![yousrachakib's 42 stats](https://badge.mediaplus.ma/levi/yousrachakib) -->
+![Snake animation](https://github.com/pisal-tejas/pisal-tejas/blob/output/github-contribution-grid-snake.svg)
 
 <p></p>
 
