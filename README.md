@@ -105,7 +105,7 @@ I'm a **Software Test Engineer**...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisal-tejas&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pisal-tejas&theme=dark" alt="pisal-tejas GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pisal-tejas&theme=dark" alt="pisal-tejas GitHub Streak"/></p>
 
 
 </div>
