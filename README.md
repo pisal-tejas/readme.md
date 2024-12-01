@@ -45,21 +45,24 @@ I'm a **Software Test Engineer**...
 <table>
 <tr>
   <td align="center"><b>Requirement Analysis</b></td>
-  <td align="center"><b>Test Case Writing</b></td>
-  <td align="center"><b>Test Planning</b></td>
+  <td align="center"><b>Test Scenario and Test Case Writing</b></td>
+  <td align="center"><b>Test data preparation</b></td>
 </tr>
 <tr>
-  <td align="center"><b>Test Design</b></td>
+  <td align="center"><b>Test environment setup</b></td>
   <td align="center"><b>Test Execution</b></td>
-  <td align="center"><b>Reporting</b></td>
+  <td align="center"><b>Test Reporting</b></td>
 </tr>
 <tr>
-  <td align="center"><b>User Acceptance Testing (UAT)</b></td>
-  <td align="center"><b>Regression Testing</b></td>
-  <td align="center"><b>System Testing</b></td>
-</tr>
-<tr>
+  <td align="center"><b>Functional Testing </b></td>
+  <td align="center"><b>Smoke Testing</b></td>
+   <td align="center"><b>Sanity Testing</b></td>
   <td align="center"><b>Integration Testing</b></td>
+   <td align="center"><b>System Testing</b></td>
+</tr>
+<tr>
+  <td align="center"><b>Regression Testing</b></td>
+  <td align="center"><b>Retesting</b></td>
   <td align="center"><b>Bug Tracking</b></td>
   <td align="center"><b>Risk Assessment</b></td>
 </tr>
