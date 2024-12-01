@@ -22,7 +22,7 @@
 
 I'm a **Software Test Engineer**...
 
-👩‍💻 I'm currently working on Testing-related projects that keep software running smoother than a well-oiled machine—because who wants bugs crashing the party?
+👩‍💻 I'm currently working on testing-related projects that ensure software runs like a seamless experience—because who wants bugs crashing the party?
 
 🧠 I'm currently learning advanced software testing techniques and methodologies—always on the quest to be the ultimate bug buster!
 
